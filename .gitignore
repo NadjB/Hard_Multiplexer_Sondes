@@ -1,0 +1,22 @@
+# Folders
+
+Vertions/
+Fabrication/
+3D/
+bom/
+Spectra/
+Gerber*/sym-lib-table
+*.zip
+
+# Temporary files
+
+*.*bak
+*-cache
+
+# personalisation files
+
+*.kicad_prl
+
+# Exported BOM files
+*.xml
+*.csv
