@@ -424,7 +424,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "/home/ba/Téléchargements/Multiplexer Sondes",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -436,28 +436,8 @@
       ""
     ],
     [
-      "fa541ed9-f260-4945-891d-dcc91b773995",
-      "1to4_reedRelay5"
-    ],
-    [
-      "535b1cb1-b78b-45b0-a52d-c777414a2d07",
-      "1to4_reedRelay4"
-    ],
-    [
-      "1caf37c1-3d81-4132-8fbe-c8b3080996fa",
-      "1to4_reedRelay3"
-    ],
-    [
-      "79596d5b-b054-4cbf-8aa1-a8124e44dfb2",
-      "1to16_reedRelay"
-    ],
-    [
-      "6a31e6d3-b28f-4aec-a2fc-a1fbd8219927",
-      "1to4_reedRelay7"
-    ],
-    [
-      "603a9621-e7a5-4470-96cc-e94ef92ea82c",
-      "1to4_reedRelay6"
+      "71445510-b3a5-4ae8-b465-dcdf77105e65",
+      "Relais"
     ]
   ],
   "text_variables": {}
